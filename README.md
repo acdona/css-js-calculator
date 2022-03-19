@@ -6,11 +6,11 @@ A. C. <b>Doná Dev FSPHP</b>
 </h1>
 <br>
 
-# Projeto acd-project-name 📱 💻 🖥️ 
+# Projeto calculator 📱 💻 🖥️ 
 
->Este projeto é um modelo
+>Este projeto é um calculadora em CSS e Javascript
 
-Objetivo é a utilização do mesmo em outros projetos
+Objetivo é a demonstrar a utilização de CSS e Javascript para criar uma calculadora.
 
 ## Histórico de alterações
 
@@ -31,14 +31,6 @@ Objetivo é a utilização do mesmo em outros projetos
 ## Software utilizado
 - Visual Studio Code
 - Notepad++
-
-## Observações
-
-- Para funcionar corretamente, o projeto deve ser em localhost/index.html,
-sendo o localhost o endereço do seu servidor. 
-Se for tentado o acesso direto pelo index.html, o navegador apontará erro:
-O acesso ao script foi bloqueado pela política CORS.
-Access to script has been blocked by CORS policyps.
 
 ## Crédito
 
