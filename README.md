@@ -6,7 +6,7 @@ A. C. <b>Doná Dev FSPHP</b>
 </h1>
 <br>
 
-# Projeto calculator 📱 💻 🖥️ 
+# Projeto calculadora JS/CSS 📱 💻 🖥️ 
 
 >Este projeto é um calculadora em CSS e Javascript
 
